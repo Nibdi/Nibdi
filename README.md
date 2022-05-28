@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nibdi
-- 👀 I’m interested in beginer python scripts
-- 🌱 I’m currently learning python and micro python
+- 👀 I’m interested in python (Soon CSS, JavaScript and HTML)
+- 🌱 I’m currently learning Python and Micro Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
